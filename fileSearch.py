@@ -1,6 +1,6 @@
 '''
-In this version, the results listbox is replaced with a treeview widgetI have the frame 
-containing the treeview resize when window is resized.
+In this version, the results listbox is replaced with a treeview widget
+I have the frame containing the treeview resize when window is resized.
 The find_files function from findFile_21.py is used to search for the files.
 Compare the find_files function with the code in findDirectory.py
 That code will find files or directories, this code only seems to find files.
