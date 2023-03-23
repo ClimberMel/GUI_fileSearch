@@ -7,6 +7,6 @@ GUI_fileSearch
 Built using tkinter and fnmatch
 -------------------------------
 
-.. image:: images/program.jpg
+.. image:: docs/images/program.jpg
   :width: 500
   :alt: program image
